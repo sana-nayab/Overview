@@ -5,10 +5,10 @@
 
 <p align="center">
   <em>
-    Myself <b>Sana Nayyab</b>, a B.Tech <b>Computer Science</b> graduate from <b>VU</b>, .
+    Myself <b>Sana Nayyab</b>, Master in  <b>Computer Science</b>  from <b>VU</b>, .
     An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
-  <b><i>"---The chasm between triumph & defeat is often bridged by a solitary attempt.---"</i></b>
+  <b><i>"---"Between victory and failure lies a narrow bridge—often crossed by one final act of courage".---"</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
@@ -97,4 +97,4 @@
   <br>
   
 <p align="right" > Created with 🧡 by <a href="[https://github.com/sana-nayab]"> Sana Nayyab</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=omunite215&label=Profile%20views&color=0e75b6&style=flat" alt="omunite215" /> </p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=omunite215&label=Profile%20views&color=0e75b6&style=flat" alt="sanA" /> </p>
