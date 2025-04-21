@@ -65,7 +65,7 @@
 </summary>
 <br>
 <p align="center">
-  <a href="https://github.com/omunite215">
+  <a href="https://github.com/sana-nayyab">
     <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=omunite215&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/omunite215">
@@ -79,20 +79,20 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/om-patel-401068143/">
-   <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <a href="https://www.linkedin.com/in/sana-nayyab/">
+   <img align="left" alt=" SANA | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:omunite21@gmail.com">
-    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <a href="mailto:SMILEPK145@gmail.com">
+    <img align="left" alt="SANA | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://www.instagram.com/_21omp/">
-    <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+    <img align="left" alt="SANA | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://github.com/omunite215">
+   <a href="https://github.com/sana-nayyab">
     <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <a href="https://portfolio-jade-gamma-13.vercel.app/">
-    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
+    <img align="left" alt="sana | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
   </a>
   <br>
   
